@@ -1,4 +1,4 @@
-FROM node:10.5-slim
+FROM node:slim
 
 MAINTAINER Nikolay Konovalov <konovalov.nk@gmail.com>
 
